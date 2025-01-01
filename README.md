@@ -16,34 +16,34 @@ pip install -r requirement.txt
 ### Running the Experiments
 This repository contains multiple Jupyter Notebooks (`.ipynb`) that correspond to various experiments related to KAN:
 
-1. **Ex1.KAN_Pipeline.ipynb** by **Haoyu Dong**:
+1. **Ex1.KAN_Pipeline.ipynb**:
    - Demonstrates the core pipeline for implementing KAN and provides an overview of the workflow.
 
-2. **Ex2.Grid_Refine.ipynb** by **Haoyu Dong**:
+2. **Ex2.Grid_Refine.ipynb**:
    - Conducts experiments on grid refinement, showing how finer grids improve approximation accuracy.
 
-3. **Ex3.Deep_Kan.ipynb** by **Haoyu Dong**:
+3. **Ex3.Deep_Kan.ipynb**:
    - Explores deeper KAN architectures, evaluating performance with additional layers.
 
-4. **Ex4.Classfication.ipynb** by **Jinfan Xiang** & **Haoyu Dong**:
+4. **Ex4.Classfication.ipynb**:
    - Applies KAN to classification tasks, demonstrating its adaptability to supervised learning.
 
-5. **Ex5.Special_Functions.ipynb** by **Jinfan Xiang**:
+5. **Ex5.Special_Functions.ipynb**:
    - Handles complex special functions using KAN, including non-standard cases.
 
-6. **Ex6.PDE_interpretation.ipynb** by **Jinfan Xiang**:
+6. **Ex6.PDE_interpretation.ipynb**:
    - Interprets partial differential equations (PDEs) using KAN-based models.
 
-7. **Ex7.PDE_accuracy.ipynb** by **Yunfei Ke**:
+7. **Ex7.PDE_accuracy.ipynb**:
    - Evaluates the accuracy of KAN in solving PDEs, comparing it to benchmarks.
 
-8. **Ex8.continue_learning.ipynb** by **Yunfei Ke**:
+8. **Ex8.continue_learning.ipynb**:
    - Tests continual learning capabilities, showing how KAN adapts to new data.
 
-9. **Ex9.singularity.ipynb** by **Yunfei Ke**:
+9. **Ex9.singularity.ipynb**:
    - Addresses singularities and examines KAN's robustness in challenging scenarios.
 
-10. **Ex10.Comparison.ipynb** by **Yunfei Ke**:
+10. **Ex10.Comparison.ipynb**:
     - Compares KAN with other machine learning approaches to highlight its strengths.
 
 ![image](https://github.com/user-attachments/assets/ef5014ec-484f-408c-8ced-00ffff714d0b)
