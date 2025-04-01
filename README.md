@@ -1,7 +1,7 @@
 # README for KAN Reproduction Project by KANY group, ECBM 4040.
 
 ## Overview
-This repository contains the project files for implementation and reproduction of Kolmogorov-Arnold Networks (KAN) in Tensorflow, an advanced neural network architecture inspired by the Kolmogorov-Arnold Representation Theorem. You can find the original work here ([Kolmogorov–Arnold Networks paper](https://arxiv.org/abs/2010.03645)). The repository includes all the files and scripts necessary to perform the experiments, reproduce the results, and explore the theoretical aspects of KAN. For detailed explanations, the project report (`E4040.2024Fall.KANY.report.hd2573.jx2598.yk3108.pdf`) provides comprehensive insights into the methodology and results.
+This repository contains the project files for implementation and reproduction of Kolmogorov-Arnold Networks (KAN) in Tensorflow, an advanced neural network architecture inspired by the Kolmogorov-Arnold Representation Theorem. You can find the original work here ([Kolmogorov–Arnold Networks paper](https://arxiv.org/abs/2404.19756)). The repository includes all the files and scripts necessary to perform the experiments, reproduce the results, and explore the theoretical aspects of KAN. For detailed explanations, the project report (`E4040.2024Fall.KANY.report.hd2573.jx2598.yk3108.pdf`) provides comprehensive insights into the methodology and results.
 
 ![image](https://github.com/user-attachments/assets/b0e996da-894c-483d-a8cc-112cdc4fb079)
 
