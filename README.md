@@ -8,9 +8,9 @@ This repository contains the project files for implementation and reproduction o
 ## Getting Started
 
 ### Prerequisites
-Ensure you have the required dependencies installed. These can be found in the `requirement.txt` file. Install them using the following command:
+Ensure you have the required dependencies installed. These can be found in the `requirements.txt` file. Install them using the following command:
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### Running the Experiments
